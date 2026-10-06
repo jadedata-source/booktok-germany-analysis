@@ -158,8 +158,7 @@ Compares the average chart duration of newly released books with titles that wer
 
 ### Interactive Tableau Dashboard
 
-**[View the Tableau Public dashboard](PASTE_TABLEAU_PUBLIC_LINK_HERE)**
-
+**[View the Tableau Public Dashboard](https://public.tableau.com/views/GermanBookTokAnalysis20232026/GermanBookTokAnalysis20232026?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 Screenshots and exported visualizations are also available in the [`visuals/`](visuals/) folder.
 
 ---
